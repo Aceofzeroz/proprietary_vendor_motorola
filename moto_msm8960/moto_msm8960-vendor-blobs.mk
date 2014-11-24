@@ -72,10 +72,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/moto_msm8960/proprietary/lib/pp_proc_plugin.so:system/lib/pp_proc_plugin.so \
     vendor/motorola/moto_msm8960/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/motorola/moto_msm8960/proprietary/lib/libQSEEComAPI.so:system/lib/libQSEEComAPI.so \
-    vendor/motorola/moto_msm8960/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
-    vendor/motorola/moto_msm8960/proprietary/lib/libprdrmdecrypt.so:system/lib/libprdrmdecrypt.so \
-    vendor/motorola/moto_msm8960/proprietary/lib/libtzplayready.so:system/lib/libtzplayready.so \
-    vendor/motorola/moto_msm8960/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/motorola/moto_msm8960/proprietary/bin/gpsone_daemon:system/bin/gpsone_daemon \
     vendor/motorola/moto_msm8960/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
     vendor/motorola/moto_msm8960/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
@@ -129,11 +125,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/moto_msm8960/proprietary/vendor/lib/lib-rtpcore.so:system/vendor/lib/lib-rtpcore.so \
     vendor/motorola/moto_msm8960/proprietary/vendor/lib/lib-rtpdaemoninterface.so:system/vendor/lib/lib-rtpdaemoninterface.so \
     vendor/motorola/moto_msm8960/proprietary/vendor/lib/lib-rtpsl.so:system/vendor/lib/lib-rtpsl.so \
-    vendor/motorola/moto_msm8960/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
-    vendor/motorola/moto_msm8960/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
-    vendor/motorola/moto_msm8960/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
-    vendor/motorola/moto_msm8960/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
-    vendor/motorola/moto_msm8960/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/motorola/moto_msm8960/proprietary/lib/libOmxVenc.so:system/lib/libOmxVenc.so \
     vendor/motorola/moto_msm8960/proprietary/lib/libmmparser.so:system/lib/libmmparser.so \
     vendor/motorola/moto_msm8960/proprietary/etc/firmware/vidc.b00:system/etc/firmware/vidc.b00 \
